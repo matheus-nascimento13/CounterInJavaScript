@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    background-color: grey;
+}
+
+.title {
+    text-align: center;
+}
+
+.counter {
+    text-align: center;
+    font-size: 200px;
+}
+
+.buttons {
+    text-align: center;
+
+}
+
+#btn {
+    width: 80px;
+    height: 30px;
+    background-color: white;
+}
